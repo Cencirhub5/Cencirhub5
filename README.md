@@ -22,34 +22,40 @@
 ---
 
 ## 💻 Tech Stack
-### Languages
-![PHP](https://img.shields.io/badge/php-777BB4.svg?&style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-E34F26.svg?&style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6.svg?&style=flat&logo=css3&logoColor=white)
 
-### Frameworks & Libraries
-![Laravel](https://img.shields.io/badge/laravel-F05340.svg?&style=flat&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C.svg?&style=flat&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-0769AD.svg?&style=flat&logo=jquery&logoColor=white)
+### 🧠 Diller & Teknolojiler
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=css3&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash&logoColor=white)
 
-### Tools & Platforms
+### 🧱 Frameworks & Libraries
+![Laravel](https://img.shields.io/badge/Laravel-F05340.svg?&style=flat&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=flat&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?&style=flat&logo=jquery&logoColor=white)
+
+### ☁️ Sunucu & Cloud Teknolojileri
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?&style=flat&logo=cloudflare&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A.svg?&style=flat&logo=raspberry-pi&logoColor=white)
+
+### 🔧 Araçlar ve Platformlar
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=flat&logo=postman&logoColor=white)
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C.svg?&style=flat&logo=cpanel&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=flat&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-FCC624.svg?&style=flat&logo=linux&logoColor=black)
-![SEO](https://img.shields.io/badge/SEO-Strategist-informational?style=flat&logo=google)
-
-### Project Management
-![Trello](https://img.shields.io/badge/trello-0052CC.svg?&style=flat&logo=trello&logoColor=white)
-![Notion](https://img.shields.io/badge/notion-000000.svg?&style=flat&logo=notion&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=mysql&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-F89820.svg?&style=flat&logo=phpmyadmin&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=flat&logo=linux&logoColor=black)
+![SEO](https://img.shields.io/badge/SEO-Expert-informational?style=flat&logo=google)
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cencirhub5&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cencirhub5&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
