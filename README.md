@@ -16,7 +16,7 @@
 <p align="left">
   <a href="https://ebgyazilim.com.tr" target="_blank"><img alt="Web Site" src="https://img.shields.io/badge/Web-ebgyazilim.com.tr-blue?style=for-the-badge&logo=google-chrome" /></a>
   <a href="mailto:bilgi@ebgyazilim.com.tr" target="_blank"><img alt="E-Mail" src="https://img.shields.io/badge/Mail-İletişime%20Geç-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="[https://linkedin.com/in/ornekprofil](https://www.linkedin.com/in/emre-gencer-ab2494252/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Boss-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/emre-gencer-ab2494252/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Boss-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 ---
