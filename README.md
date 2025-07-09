@@ -1,4 +1,4 @@
-<h1 align="center">👋 Merhaba, ben Boss! | PHP Web Geliştirici & Sunucu Yöneticisi</h1>
+<h1 align="center">👋 Merhaba, ben Emre Gencer! | PHP Web Geliştirici & Sunucu Yöneticisi</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profil+Görüntülenme+Sayısı&color=blue&style=flat" alt="profile views" />
@@ -7,7 +7,7 @@
 <p align="center">
   Yazılım geliştirmekten, e-ticaret projeleri üretmekten ve müşterileri memnun edecek çözümler sunmaktan büyük keyif alıyorum.  
   Hem teknik hem de ticari düşünürüm. 🚀  
-  Girişimcilik, SEO, Laravel ve PHP alanında çalışmalar yapıyorum.
+  Girişimcilik, SEO, Sunucu Yönetimi, Laravel ve PHP alanında çalışmalar yapıyorum.
 </p>
 
 ---
@@ -15,8 +15,8 @@
 ## 🔗 Sosyal Medya
 <p align="left">
   <a href="https://ebgyazilim.com.tr" target="_blank"><img alt="Web Site" src="https://img.shields.io/badge/Web-ebgyazilim.com.tr-blue?style=for-the-badge&logo=google-chrome" /></a>
-  <a href="mailto:info@ebgyazilim.com.tr" target="_blank"><img alt="E-Mail" src="https://img.shields.io/badge/Mail-İletişime%20Geç-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://linkedin.com/in/ornekprofil" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Boss-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:bilgi@ebgyazilim.com.tr" target="_blank"><img alt="E-Mail" src="https://img.shields.io/badge/Mail-İletişime%20Geç-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="[https://linkedin.com/in/ornekprofil](https://www.linkedin.com/in/emre-gencer-ab2494252/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Boss-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 ---
@@ -64,7 +64,7 @@
 ---
 
 > “Gerçek geliştirici sadece kod yazmaz. Sorun çözer, üretir, satar ve geliştirir.”  
-> <i>— Boss 👨‍💻</i>
+> <i>— Emre Gencer 👨‍💻</i>
 
 ---
 
